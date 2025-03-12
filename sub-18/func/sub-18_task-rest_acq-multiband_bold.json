@@ -1,6 +1,7 @@
 {
 	"Modality": "MR",
 	"TaskName": "rest",
+	"TaskDescription": "Resting state",
 	"MagneticFieldStrength": 3,
 	"ImagingFrequency": 123.249,
 	"Manufacturer": "Siemens",
@@ -50,6 +51,7 @@
 	"PulseSequenceDetails": "%SiemensSeq%\\ep2d_bold",
 	"RefLinesPE": 32,
 	"CoilCombinationMethod": "Sum of Squares",
+        "CoilManufacturerModel": "HeadNeck_64",
 	"ConsistencyInfo": "N4_VE11C_LATEST_20160120",
 	"MultibandAccelerationFactor": 6,
 	"PercentPhaseFOV": 100,
