@@ -1,9 +1,11 @@
 {
     "trial_type": {
         "Description": "the categorization or type of trials within an experiment ",
+        "Levels": {
         "sharingrating1": "the sharing rating in first block"
         "accuracyrating": "the assessment of accuracy rating in second block"
         "sharingrating2": "the sharing rating in third block"
+          }
     },
     "onset_response": {
         "Description": "the response window onsettime",
