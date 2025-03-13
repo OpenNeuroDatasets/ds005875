@@ -1,5 +1,10 @@
 {
-  "trial_type": {
+   "StimulusPresentation": {
+    "SoftwareName": "Eprime",
+    "SoftwareVersion": "2.0",
+    "OperatingSystem": "Windows 10"
+  },
+ "trial_type": {
     "Description": "the categorization or type of trials within an experiment",
     "Levels": {
       "sharingrating1": "the sharing rating in first block",
