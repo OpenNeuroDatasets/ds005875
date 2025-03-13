@@ -163,5 +163,5 @@ onset	duration	trial_type	onset_response	response_time	news_no	news_type	value
 1822.81	17.903	sharingrating2	1840.788	3	39	F	3
 1843.812	1.253	fixations	n/a	n/a	n/a	n/a	n/a
 1845.101	17.903	sharingrating2	1863.085	3	101	R	5
-1866.101	1.356	fixations	n/a	n/a	n/a	n/a	n/a
-1867.505	1.982	intro&rest	n/a	n/a	n/a	n/a	n/a
+1866.098	1.356	fixations	n/a	n/a	n/a	n/a	n/a
+1867.495	1.982	intro&rest	n/a	n/a	n/a	n/a	n/a
