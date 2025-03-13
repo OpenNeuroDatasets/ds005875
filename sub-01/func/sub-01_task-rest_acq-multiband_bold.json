@@ -2,6 +2,9 @@
 	"Modality": "MR",
 	"TaskName": "rest",
         "TaskDescription": "Resting state fMRI",
+        "NumberOfVolumesDiscardedByScanner": 0,
+        "NumberOfVolumesDiscardedByUser": 0,
+        "DelayTime": 0,
 	"MagneticFieldStrength": 3,
 	"ImagingFrequency": 123.249,
 	"Manufacturer": "Siemens",
@@ -34,7 +37,6 @@
 	"RepetitionTime": 0.75,
 	"FlipAngle": 60,
 	"PartialFourier": 1,
-        "PhaseEncodingDirection": "j-",
 	"BaseResolution": 90,
 	"ShimSetting": [
 		2946,
