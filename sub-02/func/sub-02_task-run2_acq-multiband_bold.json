@@ -1,6 +1,11 @@
 {
 	"Modality": "MR",
 	"TaskName": "run2",
+        "Instructions": "Please complete the task according to the instructions provided.",
+        "TaskDescription": "task-based fMRI",
+        "NumberOfVolumesDiscardedByScanner": 0,
+        "NumberOfVolumesDiscardedByUser": 0,
+        "DelayTime": 0,
 	"MagneticFieldStrength": 3,
 	"ImagingFrequency": 123.249,
 	"Manufacturer": "Siemens",
