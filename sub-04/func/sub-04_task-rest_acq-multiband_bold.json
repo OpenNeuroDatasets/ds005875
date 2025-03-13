@@ -1,6 +1,11 @@
 {
 	"Modality": "MR",
 	"TaskName": "rest",
+        "Instructions": "Remain still and focus your eyes on the fixation",
+        "TaskDescription": "Resting state fMRI",
+        "NumberOfVolumesDiscardedByScanner": 0,
+        "NumberOfVolumesDiscardedByUser": 0,
+        "DelayTime": 0,
 	"MagneticFieldStrength": 3,
 	"ImagingFrequency": 123.249,
 	"Manufacturer": "Siemens",
