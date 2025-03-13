@@ -1,4 +1,4 @@
-onset	duration	trial_type	onset_response	response_time	news_no	news_real/fake	value
+onset	duration	trial_type	onset_response	response_time	news_no	news_type	value
 0.031	4.968	intro&rest	n/a	n/a	n/a	n/a	n/a
 5.081	17.918	fakerating	23.097	3	53	F	1
 26.13	1.559	fixations	n/a	n/a	n/a	n/a	n/a
