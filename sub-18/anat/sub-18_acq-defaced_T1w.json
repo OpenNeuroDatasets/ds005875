@@ -1,5 +1,7 @@
 {
 	"Modality": "MR",
+        "GradientSetType": "Siemens Prisma",
+        "MatrixCoilMode": "GRAPPA",
 	"MagneticFieldStrength": 3,
 	"ImagingFrequency": 123.249,
 	"Manufacturer": "Siemens",
